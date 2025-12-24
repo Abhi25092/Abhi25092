@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhishek Yadav 👋  <br><br>🚀 A passionate Computer Science student and self-taught developer  <br>💻 Focused on building real-world web applications using modern technologies  <br>📚 Constantly learning and improving through projects and problem-solving  <br><br> 🎯 What I'm Working On<br>- Full-stack web applications  <br>- College & real-world projects  <br>- Improving DSA and system design fundamentals  <br><br> 🌱 Goals<br>- Become a skilled Full-Stack Developer  <br>- Contribute to open-source projects  <br>- Build impactful and scalable applications  <br><br>📫 Let's connect and collaborate!<br>
+Hi, I'm Abhishek Yadav 👋  <br><br>🚀 A passionate Computer Science student and self-taught developer  <br>💻 Focused on building real-world web applications using modern technologies  <br>📚 Constantly learning and improving through projects and problem-solving  <br><br> 🎯 What I'm Working On<br>- Full-stack web applications  <br>- Improving DSA and system design fundamentals  <br><br> 🌱 Goals<br>- Become a skilled Full-Stack Developer  <br>- Build impactful and scalable applications  <br><br>
 
 
 ## 🌐 Socials:
