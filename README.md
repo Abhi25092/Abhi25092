@@ -3,6 +3,8 @@ Hi, I'm Abhishek Yadav 👋  <br><br>🚀 A passionate Computer Science student 
 
 
 ## 🌐 Socials:
+[![Linkedin: alok](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/me?trk=aloksingh12144/](https://www.linkedin.com/in/abhishek-yadav-b86396250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]([https://www.linkedin.com/me?trk=aloksingh12144/](https://www.linkedin.com/in/abhishek-yadav-b86396250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+![GitHub followers](https://img.shields.io/github/followers/AlokSingh-12144?label=Follow&style=social)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekmgs4318@gmail.com) 
 
 # 💻 Tech Stack:
